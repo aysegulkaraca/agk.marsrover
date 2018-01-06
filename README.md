@@ -1,5 +1,5 @@
 # Mars Rover
-'''js 
+'''javascript 
     var rover = new MarsRover();
     rover.addRover([1, 2], 'N');
     rover.sendCommand(['L', 'M', 'L', 'M', 'L', 'M', 'L', 'M', 'M']);
