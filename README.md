@@ -1,5 +1,5 @@
 # Mars Rover
-'''javascript 
+```javascript 
     var rover = new MarsRover();
     rover.addRover([1, 2], 'N');
     rover.sendCommand(['L', 'M', 'L', 'M', 'L', 'M', 'L', 'M', 'M']);
@@ -12,9 +12,10 @@
         document.writeln(res);
     });
 
-'''
 
-'''sh
+```
+
+```sh
     1 3 N
     5 1 E
-'''
+```
